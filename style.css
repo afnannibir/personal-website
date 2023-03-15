@@ -97,3 +97,41 @@ h2 {
     font-weight: 400;
 
 }
+
+.connect {
+    position: absolute;
+    width: 23px;
+    height: 10px;
+    left: 659px;
+    top: 2434px;
+
+    font-family: 'Bebas Neue';
+    font-style: normal;
+    font-weight: 200;
+    font-size: 20px;
+    line-height: 20px;
+}
+
+.a {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 40px;
+    top: 140px;
+}
+
+.b {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 100px;
+    top: 140px;
+}
+
+.c {
+    position: absolute;
+    width: 36.04px;
+    height: 36px;
+    left: 160px;
+    top: 140px;
+}
